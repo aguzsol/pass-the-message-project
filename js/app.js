@@ -1,7 +1,5 @@
 // Tu código aquí
 
-// Tu código aquí
-
 const form = document.querySelector('#message-form')
 
 form.addEventListener('submit', function(e){
